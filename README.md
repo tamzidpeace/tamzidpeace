@@ -34,4 +34,9 @@
 
 <br>
 
-[![Arafat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamzidpeace)](https://github.com/tamzidpeace/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/f66a36d7-34f7-4853-8d61-54318c822d0b.svg)](https://wakatime.com/@f66a36d7-34f7-4853-8d61-54318c822d0b)
+
+
+
+[![Arafat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamzidpeace&layout=compact)](https://github.com/tamzidpeace/github-readme-stats)
+
