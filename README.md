@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **tamjedpeace@gmail.com**
 
+<a href="https://app.daily.dev/tamzidpeace"><img src="https://api.daily.dev/devcards/0af5b14778624d66a1f6a8e7bd25464b.png?r=e0c" width="400" alt="Arafat Kamal's Dev Card"/></a>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
