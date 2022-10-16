@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arafat</h1>
 <h3 align="center">A programmer and tech lover</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python & Data Science**
 
-- 💬 Ask me about **Laravel & Flutter**
+- 💬 Ask me about **Laravel, React & Flutter**
 
 - 📫 How to reach me **tamjedpeace@gmail.com**
 
