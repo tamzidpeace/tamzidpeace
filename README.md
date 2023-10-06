@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arafat</h1>
 <h3 align="center">A programmer and tech lover</h3>
 
-- 🌱 I’m currently learning **Programming, Typescript, Nextjs, Python & Data Science**
+- 🌱 I’m currently learning **Programming, Typescript, Vue.js**
 
 - 💬 Ask me about **Laravel, React & Flutter**
 
